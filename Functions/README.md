@@ -10,3 +10,15 @@
 ### How to create a function
 
 SYNTAX: ```def name_of_funtion():```
+
+def greeting(name):
+    
+    (argument) 
+    print("Welcome " + name)
+    
+To call the function - ```greeting("Dono")```
+
+* This calls the argument ```greeting()``` and passes the argument ```DONO```
+    
+
+## Best Practices
