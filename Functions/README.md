@@ -11,6 +11,11 @@
 
 SYNTAX: ```def name_of_funtion():```
 
+* when you declare a variable within a function, the rest of the program will not recognise it.
+* This means that there is no need to make the variable unique to that function
+
+
+
 ***Creating a function called `greeting()`***
 ```
 # each function has a block of code to execute to ideally run one task

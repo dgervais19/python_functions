@@ -25,9 +25,11 @@ greeting("Dono")
 
  def subtract(num1, num2):
  # creating a function to subtract 2 arg provided
-     print(num1 - num2)
+     return num1 - num2
 
- subtract(40, 20)
+ subtract_value = subtract(5,3)
+
+ print(subtract_value)
 
 # create a function to *
 def multiply(num1, num2):
